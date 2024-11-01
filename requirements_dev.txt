@@ -1,4 +1,4 @@
-ipykernel==6.25.9
+ipykernel==6.29.5
 # CI packages
 jupytext==1.16.2
 # Documents packages

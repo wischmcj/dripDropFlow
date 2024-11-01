@@ -46,7 +46,7 @@ test = [
     "sphinx_rtd_theme==3.0.1",
     "sphinxcontrib-napoleon==0.7.2",
     "nbsphinx==0.9.5",
-    "ipykernel==6.25.9"
+    "ipykernel==6.29.5"
 ]
 
 [project.urls]
