@@ -25,7 +25,7 @@ dependencies = [
     "pyyaml==6.0.2",
     "rich==13.9.2",
     "ruff==0.5.1",
-    "scipy==1.13.1",
+    "scipy==1.14.1",
     "Shapely==2.0.6",
     "toml==0.10.2",
     "jupytext==1.16.4",
