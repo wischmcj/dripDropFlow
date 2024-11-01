@@ -23,7 +23,7 @@ dependencies = [
     "networkx==3.4.1",
     "numpy<2,>=1.16.0",
     "pyyaml==6.0.2",
-    "rich==13.9.2",
+    "rich==13.9.3",
     "ruff==0.5.1",
     "scipy==1.13.1",
     "Shapely==2.0.6",
