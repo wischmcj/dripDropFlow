@@ -21,7 +21,7 @@ dependencies = [
     "geopandas==1.0.1",
     "matplotlib==3.9.2",
     "networkx==3.4.1",
-    "numpy<2,>=1.16.0",
+    "numpy>=1.16.0,<3",
     "pyyaml==6.0.2",
     "rich==13.9.2",
     "ruff==0.5.1",
