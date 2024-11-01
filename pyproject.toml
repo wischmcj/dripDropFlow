@@ -24,7 +24,7 @@ dependencies = [
     "numpy<2,>=1.16.0",
     "pyyaml==6.0.2",
     "rich==13.9.2",
-    "ruff==0.5.1",
+    "ruff==0.7.1",
     "scipy==1.13.1",
     "Shapely==2.0.6",
     "toml==0.10.2",
@@ -37,7 +37,7 @@ test = [
     # CI packages
     "jupytext==1.16.2",
     "pytest==8.3.3",
-    "ruff==0.5.1",
+    "ruff==0.7.1",
     "pre-commit==4.0.1",
     # Documents packages
     "myst-parser==4.0.0",
