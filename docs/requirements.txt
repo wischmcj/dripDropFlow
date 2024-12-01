@@ -10,7 +10,7 @@ PyQt6 #Needed for interactive 3D plots
 pytest==8.3.3
 pyyaml
 rich
-ruff==0.5.1
+ruff==0.8.1
 scipy==1.13.1
 Shapely==2.0.4
 sphinx
