@@ -1,6 +1,6 @@
 ipykernel==6.25.9
 # CI packages
-jupytext==1.16.2
+jupytext==1.16.6
 # Documents packages
 myst-parser==4.0.0
 nbsphinx==0.9.5
